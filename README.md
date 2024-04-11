@@ -1,9 +1,6 @@
 # OS-Simulator
 Developed as a coursework project. Basically, a website with simulations for different OS concepts.
 
-## Deployed Website
-[https://os-simulator.mehultodi.repl.co/](https://os-simulator.mehultodi.repl.co/)
-
 ## Running the Website
 ### Setting Up
 - `cd` into `app`
